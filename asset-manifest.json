@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dc152/static/css/main.86568469.css",
+    "main.js": "/dc152/static/js/main.11b6c572.js",
+    "static/media/dragoncraft.png": "/dc152/static/media/dragoncraft.27992f792a4306aa52d6.png",
+    "static/media/spawn.png": "/dc152/static/media/spawn.d1ad966445fc171643c1.png",
+    "static/media/dontSwear.png": "/dc152/static/media/dontSwear.d0aa7d447d681236b79d.png",
+    "static/media/MinecraftItalic.otf": "/dc152/static/media/MinecraftItalic.ce040688d15f830ad909.otf",
+    "static/media/MinecraftBoldItalic.otf": "/dc152/static/media/MinecraftBoldItalic.9693305371d02954a88f.otf",
+    "static/media/MinecraftBold.otf": "/dc152/static/media/MinecraftBold.a9b3bc2a90dd462c9c18.otf",
+    "static/media/MinecraftRegular.otf": "/dc152/static/media/MinecraftRegular.82ba08919dc2add9422f.otf",
+    "static/media/MinecraftBig.ttf": "/dc152/static/media/MinecraftBig.cd1235551b5f89f4710f.ttf",
+    "index.html": "/dc152/index.html",
+    "main.86568469.css.map": "/dc152/static/css/main.86568469.css.map",
+    "main.11b6c572.js.map": "/dc152/static/js/main.11b6c572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86568469.css",
+    "static/js/main.11b6c572.js"
+  ]
+}
